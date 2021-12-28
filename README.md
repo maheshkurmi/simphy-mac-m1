@@ -3,7 +3,7 @@
 After a huge amount of efforts and time, we are proud to announce that SimPHY now works natively on MacOS arm64.
 However we could’t still create dmg installer, means Jva will have to be installed.
 
-Native support for the newer Apple chips is still a work in progress, and there is not a native launcher available. However you can manually install a native JRE and use Simphy's jar launcher, which is available on this repository, by clicking the arrow on the Download button. Because of this, getting this setup working might require some technical skills.
+Native support for the newer Apple chips is still a work in progress, and there is not a native launcher available. However you can manually install a native JRE and use Simphy's jar launcher. Getting this setup working might require some technical skills.
 
 ## Follow the steps to get it working
 ### Installing Azul's JVM
