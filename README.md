@@ -5,8 +5,8 @@ However we could’t still create dmg installer, means Jva will have to be insta
 
 ## Follow the steps to get it working
 
-* install Java for M1: https://cdn.azul.com/zulu/bin/zulu11.52.13-ca-jre11.0.13-macosx_aarch64.dmg
+* install Java for M1 from https://cdn.azul.com/zulu/bin/zulu11.52.13-ca-jre11.0.13-macosx_aarch64.dmg
 * download this repository and extract 
-* double click simphy.jar in app folder to run application
-* if it does’t work, run command java -jar simphy.jar
+* double click `simphy.jar` in app folder to run application
+* if it does’t work, run command `java -jar simphy.jar`
 * If still it does’t work, share the outcome of terminal
